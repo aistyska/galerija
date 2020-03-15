@@ -1,0 +1,7 @@
+body {
+    background: radial-gradient(circle, rgba(250,243,246,1) 0%, rgba(139,189,249,1) 100%);
+}
+
+ul {
+    list-style: none;
+}
